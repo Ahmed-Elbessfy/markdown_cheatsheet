@@ -32,7 +32,7 @@ ___
 
 <!-- To show symbols like : * or ~ or _  -->
 
-\~~text\~~ ,
+\~\~text\~\~ ,
 \*text\* ,
 \_text\_ , 
 \*\*text\*\*
