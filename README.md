@@ -2,6 +2,10 @@
 
 [video from Traversy Media](https://youtu.be/HUBNt18RFbo?list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8)
 
+[Github Guide for Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
+
+
 
 <!-- Headings -->
 # h1
