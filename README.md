@@ -1,6 +1,7 @@
-# markdown Cheat sheet from Traversy Media channel 
+# markdown Cheat sheet 
 
-[video](https://youtu.be/HUBNt18RFbo?list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8)
+[video from Traversy Media](https://youtu.be/HUBNt18RFbo?list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8)
+
 
 <!-- Headings -->
 # h1
